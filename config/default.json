@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://ashir123:ashir123@cluster0.o2zep.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "devconnectorsecret",
+  "CLIENT_ID": "5bdb109e9bb63caf9711",
+  "CLIENT_SECRET": "00552298295deddd591d461d87b252d779aa118d"
+}
